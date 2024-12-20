@@ -76,7 +76,7 @@ class Reservasi {
 
     public String getWaktu() {
         return waktu;
-    }
+    }   
 
     public void tampilkanReservasi() {
         System.out.println("Detail Reservasi:");
