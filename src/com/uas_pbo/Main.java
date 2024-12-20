@@ -48,7 +48,7 @@ class Classroom extends Room {
     }
 }
 
-// Kelas Reservasi
+// Ini adalah Kelas Reservasi
 class Reservasi {
     private final Room ruang;
     private final String namaPemesan;
