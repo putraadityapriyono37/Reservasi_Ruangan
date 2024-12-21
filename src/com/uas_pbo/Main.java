@@ -95,7 +95,7 @@ class Reservasi {
     // Getter untuk waktu reservasi
     public String getWaktu() {
         return waktu;
-    }
+    }   
 
     // Method untuk menampilkan detail reservasi
     // Memanfaatkan polimorfisme untuk memanggil tampilkanDetail() dari objek Room
